@@ -1,0 +1,7 @@
+# Written by Copier from samclement/swhurl-app-template-typescript; `copier update` reads it. Do not edit.
+_commit: v0.1.2-9-g7c26ada
+_src_path: .
+app_name: swhurl-try-7
+database: none
+description: cold-cache measurement, delete me
+kind: web
